@@ -1,6 +1,3 @@
-# 240-Day Roadmap → AI Systems Engineer (₹50 LPA target)
-
-**Owner:** Dipankar
 **Window:** 240 days · 8 months · ~2 hours/day, 6 days/week (~480–500 focused hours)
 **Positioning:** *Backend/Distributed Systems Engineer who specialises in production AI systems* — not "a GenAI developer who uses LangChain."
 
