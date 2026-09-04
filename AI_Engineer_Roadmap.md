@@ -91,20 +91,7 @@ Senior AI / GenAI Engineer
 
 > Salary targets are goals, not guarantees. Actual compensation depends on experience, company, role, location, interview performance, negotiation, and market conditions.
 
-| Target     | Assessment           |
-| ---------- | -------------------- |
-| ₹10–15 LPA | 🟢 Realistic         |
-| ₹15–20 LPA | 🟢 Strong            |
-| ₹20–30 LPA | 🟢 Primary Target    |
-| ₹30–40 LPA | 🟡 Stretch           |
-| ₹40–50 LPA | 🟠 Aggressive        |
-| ₹50L+      | 🔴 Highly Aggressive |
-
 ---
-
-# 🎯 Recommended Target
-
-Do **not** make ₹10 LPA your final target.
 
 The recommended strategy is:
 
